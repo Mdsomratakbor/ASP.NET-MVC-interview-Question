@@ -22,8 +22,23 @@
 ### Explain Validation in MVC?
 `Three things are needed to handle vlidation in MVC:`
 - `Data annotations which are nothing but attributes which can used on model Properties.`
-- `ValidateMessagesFor which is an htmle helper class must be used to display the error.`
+- `ValidateMessagesFor which is an html helper class must be used to display the error.`
 - `ModelState.IsValid must be used in contorller to take action accroding to user Response.`
+
+### What is Razor View in MVC?
+`Razor is a lightweight View engine in MVC3.`
+`Razor View can be created with two extensions: .cshtml for c# .vbhtml for Visual Basic.`
+
+### What are Filtes in MVC?
+`Filters are used to add logic code that will execute before or after a controller executes an Action method.`
+`Types of Filters :`
+- `Action Filters`
+- `Authorization Filters`
+- `Result Filters`
+- `Exception Filters`
+
+
+
 
 
 
