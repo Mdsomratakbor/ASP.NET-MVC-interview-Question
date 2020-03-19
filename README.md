@@ -30,12 +30,16 @@
 `Razor View can be created with two extensions: .cshtml for c# .vbhtml for Visual Basic.`
 
 ### What are Filtes in MVC?
-`Filters are used to add logic code that will execute before or after a controller executes an Action method.`
+`Filters are used to add logic code that will execute before or after a controller executes an Action method.`</br>
 `Types of Filters :`
 - `Action Filters`
 - `Authorization Filters`
 - `Result Filters`
 - `Exception Filters`
+
+### Explain Html Helpers in MVC?
+`Html Helpers in MVC work in almost the same way as Server Control as they are used to generate Html elements which might be needed for links, Images and for from Elements, These Html Helpers are light weight as they do not contain View State and event model attached to them.`
+
 
 
 
