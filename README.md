@@ -58,6 +58,11 @@
 - `HandleError - It is used to handle errors raised when a controller action executes in MVC.`
 - `Authorize - It enables you to restrict access to particular user or role.`
 
+### What are Aciton Method in MVC?
+- `Action Methods in MVC are required to execute requests and generate responses to the respective request which they generate in the from of Action Result.`</br>
+- `Action Methods must always be public and they cannot be overloaded.`</br>
+- `Action Methos can never be Static.`
+
 
 
 
