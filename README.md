@@ -45,6 +45,12 @@
 - `Separation of Concerns allows for compartmentalization of Presentation (UI) Business which allows high productivity and development time whith large teams.`
 - `MVC application have extensible URL Support making it easy to use option for the End user.`
 
+### Difference between Web Forms vs. MVC?
+- `MVC uses Front Controller approach which means there is common controller for all pages instead of every having its own controller like Web Froms which uses code-behind file that will process the request.`
+- `MVC architecture has a very clean separation of concern between Controllers, Models and Views unlike Web Forms.`
+- `Delvelopment of a MVC application requires a better and detailed knowledge of JavaScript, HTML and CSS.`
+- `MVC application apply a approach which is stateless as per common HTTP convention different from Web Forms which use View state`
+
 
 
 
