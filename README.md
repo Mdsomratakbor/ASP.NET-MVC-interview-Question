@@ -40,6 +40,16 @@
 ### Explain Html Helpers in MVC?
 `Html Helpers in MVC work in almost the same way as Server Control as they are used to generate Html elements which might be needed for links, Images and for from Elements, These Html Helpers are light weight as they do not contain View State and event model attached to them.`
 
+### What are the Advantages of MVC?
+- `Applications developed are lightweight also it suited to develop applications that are complex.`
+- `Separation of Concerns allows for compartmentalization of Presentation (UI) Business which allows high productivity and development time whith large teams.`
+- `MVC application have extensible URL Support making it easy to use option for the End user.`
+
+
+
+
+
+
 
 
 
