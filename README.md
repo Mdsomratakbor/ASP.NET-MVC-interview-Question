@@ -63,6 +63,15 @@
 - `Action Methods must always be public and they cannot be overloaded.`</br>
 - `Action Methos can never be Static.`
 
+### What is a ViewModel in MVC?
+`In Simple word we can display multiple Models in a single View via View Model.`</br>
+`View Models are generally used only to render views.`</br>
+`It is used to manitain separation of concern.`</br>
+
+### What is a View Engine in MVC?
+`View Engine is used to render our view into html so that it can be properly displayed in our browser.`</br>
+`MVC uses Razor View Engine for which we must use the namespace Web.Razor.`
+
 
 
 
