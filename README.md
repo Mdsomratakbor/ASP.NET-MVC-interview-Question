@@ -51,6 +51,13 @@
 - `Delvelopment of a MVC application requires a better and detailed knowledge of JavaScript, HTML and CSS.`
 - `MVC application apply a approach which is stateless as per common HTTP convention different from Web Forms which use View state`
 
+### What are Action Filters in MVC?
+`The action filter is an attribute that we can apply on a controller action or an entire controller if we need to.`</br>
+`Types of Action Filter`
+- `OutputCache - It is used cache the output of a controller action for a specified period of time.`
+- `HandleError - It is used to handle errors raised when a controller action executes in MVC.`
+- `Authorize - It enables you to restrict access to particular user or role.`
+
 
 
 
